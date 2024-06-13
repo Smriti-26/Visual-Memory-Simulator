@@ -1,3 +1,7 @@
+extract these folders first:
+pin-3.30-98830-g1d7b601b3-gcc-linux.tar.xz
+tracer.tar.xz
+
 pip install PyQt5
 sudo apt-get install libxcb-xinerama0
 pip install matplotlib
