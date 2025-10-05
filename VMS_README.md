@@ -43,6 +43,10 @@ chmod +x build_champsim.sh
 
 sudo apt install vlc -y
 
+### 8. Run VMS
+
+python3 mainVMS.py
+
 ## Optional Dependencies
 
 If some dependencies are missing, you may verify or install the following versions:
