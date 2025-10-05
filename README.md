@@ -17,26 +17,26 @@ cd Visual-Memory-Simulator
 
 ### 3. Create and Activate a Virtual Environment
 
-python3 -m venv .venv
+python3 -m venv .venv<br>
 source .venv/bin/activate
 
 ### 4. Install Required Dependencies
 
-python3 -m pip install PyQt5
-sudo apt-get install libxcb-xinerama0
-pip install matplotlib
-pip install pyautogui
-pip install opencv-python
+python3 -m pip install PyQt5<br>
+sudo apt-get install libxcb-xinerama0<br>
+pip install matplotlib<br>
+pip install pyautogui<br>
+pip install opencv-python<br>
 pip install opencv-python-headless
 
 ### 5. Extract Required Archives
 
-tar -xf pin-3.30-98830-g1d7b601b3-gcc-linux.tar.xz
+tar -xf pin-3.30-98830-g1d7b601b3-gcc-linux.tar.xz<br>
 tar -xf tracer.tar.xz
 
 ### 6. Grant Execution Permissions to ChampSim Scripts
 
-chmod +x run_champsim.sh
+chmod +x run_champsim.sh<br>
 chmod +x build_champsim.sh
 
 ### 7. Install VLC to Enable Video Output
