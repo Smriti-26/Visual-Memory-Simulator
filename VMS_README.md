@@ -46,24 +46,26 @@ sudo apt install vlc -y
 ## Optional Dependencies
 
 If some dependencies are missing, you may verify or install the following versions:
-Package	Version
-contourpy	1.2.1
-cycler	0.12.1
-fonttools	4.52.4
-kiwisolver	1.4.5
-matplotlib	3.9.0
-numpy	1.26.4
-opencv-python	4.9.0.80
-opencv-python-headless	4.10.0.82
-packaging	24.0
-pillow	10.3.0
-pip	24.0
-pyparsing	3.1.2
-PyQt5	5.15.10
-PyQt5-Qt5	5.15.2
-PyQt5-sip	12.13.0
-python-dateutil	2.9.0.post0
-six	1.16.0
+| Package                | Version     |
+| ---------------------- | ----------- |
+| contourpy              | 1.2.1       |
+| cycler                 | 0.12.1      |
+| fonttools              | 4.52.4      |
+| kiwisolver             | 1.4.5       |
+| matplotlib             | 3.9.0       |
+| numpy                  | 1.26.4      |
+| opencv-python          | 4.9.0.80    |
+| opencv-python-headless | 4.10.0.82   |
+| packaging              | 24.0        |
+| pillow                 | 10.3.0      |
+| pip                    | 24.0        |
+| pyparsing              | 3.1.2       |
+| PyQt5                  | 5.15.10     |
+| PyQt5-Qt5              | 5.15.2      |
+| PyQt5-sip              | 12.13.0     |
+| python-dateutil        | 2.9.0.post0 |
+| six                    | 1.16.0      |
+
 
 ## VMS Utilities and Functionalities
 
